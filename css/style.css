@@ -1,4 +1,23 @@
 body{
     background-color: pink;
     color:white;
-   }
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+   }.main-header{
+    width:100vw;
+    text-align:center;
+}
+
+.profile-picture{
+    width:150px;
+    height:150px;
+    border-radius:70%;
+}
+
+section{
+ padding:5vw;
+}
+
+.sprint-2{
+    background-color:rgb(252, 180, 192);
+}
